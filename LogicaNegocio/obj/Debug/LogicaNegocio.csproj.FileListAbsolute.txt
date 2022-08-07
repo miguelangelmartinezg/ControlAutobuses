@@ -1,0 +1,11 @@
+C:\Users\Prueba\source\repos\ControlAutobuses\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+C:\Users\Prueba\source\repos\ControlAutobuses\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+C:\Users\Prueba\source\repos\ControlAutobuses\LogicaNegocio\bin\Debug\AccesoDatos.dll
+C:\Users\Prueba\source\repos\ControlAutobuses\LogicaNegocio\bin\Debug\Entities.dll
+C:\Users\Prueba\source\repos\ControlAutobuses\LogicaNegocio\bin\Debug\AccesoDatos.pdb
+C:\Users\Prueba\source\repos\ControlAutobuses\LogicaNegocio\bin\Debug\Entities.pdb
+C:\Users\Prueba\source\repos\ControlAutobuses\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\Prueba\source\repos\ControlAutobuses\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Prueba\source\repos\ControlAutobuses\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CopyComplete
+C:\Users\Prueba\source\repos\ControlAutobuses\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+C:\Users\Prueba\source\repos\ControlAutobuses\LogicaNegocio\obj\Debug\LogicaNegocio.pdb
